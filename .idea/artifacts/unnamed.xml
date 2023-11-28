@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.war">
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/업무/회사 관련 서류/교육/자바 코드의 성능 향상/jmeter.war" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
